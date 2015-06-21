@@ -3,7 +3,7 @@ from ami import *
 
 options_login = {
 	'host':HOST,
-	'username':USENAME,
+	'username':USERNAME,
 	'password':PASSWORD
 
 }
