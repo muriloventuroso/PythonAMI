@@ -8,7 +8,6 @@ class AMI(object):
             setattr(self, k, v)
         self.connect()
 
-
     def connect(self):
         import uuid
         from datetime import datetime

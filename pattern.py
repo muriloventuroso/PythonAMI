@@ -13,7 +13,6 @@ ActionID: %(actionid)s
 
     return pattern
 
-
 def pattern_originate_local(number,context_local,context,callerid,priority,exten,timeout,actionid):
 
 
